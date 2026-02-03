@@ -2,6 +2,8 @@
 
 This project generates a password based on user name and date of birth using JavaScript.
 
+## Live -- (https://rajit8674.github.io/passwordGenerator/)
+
 ##  Tech Stack
 - HTML
 - CSS
