@@ -9,7 +9,7 @@ This project generates a password based on user name and date of birth using Jav
 - CSS
 - JavaScript
 
-##  Features
+##  Feature
 - Name based password logic
 - Date of birth combination
 - Random symbol for better strength
